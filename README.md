@@ -1,4 +1,6 @@
-### Hi there 👋
+![Orc Hwang Banner](images/banner.jpg)
+
+⚔️ Developer Orc Hwang 
 
 <!--
 **orchwang/orchwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
