@@ -1,4 +1,4 @@
-![Orc Hwang Banner](images/banner.jpg)
+![Orc Hwang Banner](https://github.com/orchwang/orchwang/raw/master/images/banner.jpg)
 
 ⚔️ Developer Orc Hwang 
 
