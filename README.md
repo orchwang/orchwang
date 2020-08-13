@@ -1,8 +1,6 @@
-![Orc Hwang Banner](https://github.com/orchwang/orchwang/raw/master/images/banner.jpg)
-
 # ⚔️ Orc Hwang 
 
-Software Engineer at NerdFactory
+Software Engineer
 
 <!--
 **orchwang/orchwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
