@@ -1,4 +1,4 @@
-### Who Am I 👋
+### Who Am I 👋
 
 I am Orc Hwang, and I work as a Python Backend Engineer. I'm finding joy in solving a variety of challenges that one can encounter in life through code. 
 
