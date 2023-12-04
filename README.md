@@ -1,6 +1,6 @@
 ### Who Am I 👋
 
-I am Orc Hwang, and I work as a Python Backend Engineer. I'm finding joy in solving a variety of challenges that one can encounter in life through code. 
+I am Orc Hwang, and currently work as a Python Backend Engineer. I'm finding joy in solving a variety of challenges that one can encounter in life through code. 
 
 - I am striving to write good code proficiently.
 - I prefer the Test-Driven Development (TDD) approach. I believe that the TDD cycle enhances service reliability and is advantageous for collaboration.
