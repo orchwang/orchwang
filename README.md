@@ -28,6 +28,7 @@ I am Orc Hwang, and currently work as a Python Backend Engineer. I'm finding joy
 
 ### What I'm learning 📒
 
-- Language : Go
+- Language : Rust
+- Database : Redis
 - Container Orchestration : K8S
 - Data Engineering : Kafka
